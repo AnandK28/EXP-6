@@ -7,8 +7,14 @@ APPARATUS: - LVDT kit, Multimeter
 
 THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
-DIAGRAM:
-CIRCUIT DIAGRAM
+DIAGRAM, CIRCUIT DIAGRAM, OBSERVATION TABLE:
+![WhatsApp Image 2025-11-13 at 08 50 14_57668814](https://github.com/user-attachments/assets/5455c090-628e-40a0-89b8-696946718516)
+![WhatsApp Image 2025-11-13 at 08 50 14_fc076f12](https://github.com/user-attachments/assets/277c9afc-2fe1-48a1-8b6b-c865b7546332)
+![WhatsApp Image 2025-11-13 at 08 50 14_94257add](https://github.com/user-attachments/assets/6a0309d2-739e-415a-a2a6-b7f80fb179ca)
+
+![WhatsApp Image 2025-11-13 at 08 50 15_c0900d26](https://github.com/user-attachments/assets/10365386-7555-4749-b4de-2264be61f9c8)
+
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -17,7 +23,19 @@ I. Connect the multimeter at the output of kit..
 5. Plot the graph between displacement and voltages on the graph paper.
 
 
-OBSERVATION TABLE
+OUTPUT:
+
+## NULL-Displacement:
+
+<img width="1027" height="716" alt="image" src="https://github.com/user-attachments/assets/3506d899-8a4f-4f08-b611-21b6ddf0c122" />
+
+## POSITIVE-Displacement:
+
+<img width="1033" height="711" alt="image" src="https://github.com/user-attachments/assets/eb35bbbf-983e-4d61-bb33-46b5907bf8db" />
+
+## NEGATIVE-Displacement:
+
+<img width="1034" height="711" alt="image" src="https://github.com/user-attachments/assets/6f2d5e6b-c7e6-4c63-8843-56a006013dc5" />
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
